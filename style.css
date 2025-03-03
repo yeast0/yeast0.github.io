@@ -4,8 +4,9 @@ padding : 0;
 text-align : left;
 font : 75% "Trebuchet MS", verdana, arial, sans-serif;
 line-height : 1.5em;
-background : #BCE0A8 url(img/bg.jpg) top center repeat-y;
+background : #BCE0A8;
 color : #000;
+border-radius: 25px;
 }
 			/*CONTAINER*/
 #wrapper {
@@ -16,6 +17,8 @@ margin-left : auto;
 padding : 0;
 border : 0px solid green;
 background : #fff;
+box-shadow : 0 0 12px black;
+border-radius: 7px;
 }
 			/*TOP TITLE BAR*/
 #title {
@@ -42,12 +45,14 @@ width : 770px;
 height : 200px;
 margin : 0 0 0 5px;
 padding : 0 0 0 0;
+border-radius: 25px;
 }
 			/*TOP NAVIGATION*/
 .container {
 width : 770px;
 height : 35px;
 margin : 20px 0 10px 5px;
+border-radius: 25px;
 }
 #navCircle {
 margin : 0;
@@ -84,6 +89,7 @@ border-right : 1px solid #b2d094;
 }
 #content p {
 padding : 0 20px;
+border-radius: 25px;
 }
 			/*SIDEBAR*/
 #right-col {
@@ -99,6 +105,8 @@ padding : 5px;
 font : 90% "Trebuchet MS", verdana, arial, sans-serif;
 background : #4b692d;
 color : #fff;
+text-align:center;
+border-radius: 0 0 7px 7px;
 }
 #footer a:link, #footer a:visited {
 background : inherit;

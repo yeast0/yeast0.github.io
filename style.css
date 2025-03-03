@@ -30,7 +30,7 @@ background : #fff;
 color : #000;
 }
 #title h1 {
-margin : 0;
+margin : 15px;
 padding : 10px;
 font-size : 175%;
 text-transform : uppercase;

@@ -79,7 +79,7 @@ background : url(img/arrow.gif) no-repeat bottom center;
 }
 			/*MAIN CONTENT*/
 #content {
-width : 560px;
+width : 550px;
 float : left;
 margin-top : 0;
 margin-left : 11px;
@@ -88,7 +88,6 @@ border-right : 1px solid #b2d094;
 }
 #content p {
 padding : 0 20px;
-border-radius: 25px;
 }
 			/*SIDEBAR*/
 #right-col {
@@ -120,7 +119,7 @@ text-decoration : none;
 div.scroll {
 overflow : auto;
 height : 10em;
-width : 150px;
+width : 165px;
 padding : 1ex;
 margin : 0 0 30px 5px;
 border : 1px solid #345411;
